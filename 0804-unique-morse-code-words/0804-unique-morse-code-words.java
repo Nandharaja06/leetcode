@@ -15,6 +15,6 @@ class Solution {
            }
            set.add(s); 
         }
-        return set.size();  
+        return set.size();
     }
 }
